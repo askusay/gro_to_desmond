@@ -1,6 +1,8 @@
 # gro_to_desmond
 A basic converter from the gromacs topology format to desmond CMS
 
+*THIS TOOL IS ONLY INTENDED FOR CREATING BASIC DESMOND CMS FILES AND NOT FORCEFIELD PARAMETER CONVERSION*
+
 ### Installation:
 Install modified parmed from: https://github.com/askusay/ParmEd
 
