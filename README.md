@@ -20,4 +20,4 @@ The code is in the Jupyter notebook
   - Desmond .dtr trajectories also work for traj_file
 
 ### Results 
-Enables doing some analyses in Maestro Desmond like direct/water mediated hydrogen bond interaction diagrams, see attached pdf 
+Enables doing some analyses in Maestro Desmond like detecting lig-protein direct/water mediated hydrogen bond (Simulation Interaction Diagram tool), see attached pdf 
